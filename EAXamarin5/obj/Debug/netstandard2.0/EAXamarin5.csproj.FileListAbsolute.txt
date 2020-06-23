@@ -14,3 +14,4 @@ C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5\obj\Debug\netstandard2.0\EAXama
 C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5\obj\Debug\netstandard2.0\EAXamarin5.AssemblyInfo.cs
 C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5\obj\Debug\netstandard2.0\EAXamarin5.dll
 C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5\obj\Debug\netstandard2.0\EAXamarin5.pdb
+C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5\obj\Debug\netstandard2.0\XamlC.stamp

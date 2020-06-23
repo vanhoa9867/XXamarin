@@ -56,6 +56,7 @@ C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5.Android\bin\Debug\System.Runtim
 C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5.Android\bin\Debug\System.ServiceModel.Internals.pdb
 C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5.Android\bin\Debug\System.Web.Services.pdb
 C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5.Android\bin\Debug\Mono.Security.pdb
+C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5.Android\bin\Debug\EAXamarin5.dll.mdb
 C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5.Android\obj\Debug\80\linksrc\EAXamarin5.Android.pdb
 C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5.Android\obj\Debug\80\linksrc\FormsViewGroup.pdb
 C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5.Android\obj\Debug\80\linksrc\Mono.Android.pdb
@@ -78,7 +79,6 @@ C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5.Android\obj\Debug\80\linksrc\Sy
 C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5.Android\obj\Debug\80\linksrc\System.ServiceModel.Internals.pdb
 C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5.Android\obj\Debug\80\linksrc\System.Web.Services.pdb
 C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5.Android\obj\Debug\80\linksrc\Mono.Security.pdb
-C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5.Android\bin\Debug\EAXamarin5.dll.mdb
 C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5.Android\obj\Debug\80\linksrc\EAXamarin5.dll.mdb
 C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5.Android\obj\Debug\80\android\assets\EAXamarin5.dll.mdb
 C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5.Android\obj\Debug\80\android\assets\EAXamarin5.Android.pdb
