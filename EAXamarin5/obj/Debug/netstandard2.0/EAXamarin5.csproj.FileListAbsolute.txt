@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5\bin\Debug\netstandard2.0\EAXamarin5.deps.json
+C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5\bin\Debug\netstandard2.0\EAXamarin5.dll
+C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5\bin\Debug\netstandard2.0\EAXamarin5.pdb
+C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5\obj\Debug\netstandard2.0\EAXamarin5.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5\obj\Debug\netstandard2.0\EAXamarin5.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5\obj\Debug\netstandard2.0\EAXamarin5.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5\obj\Debug\netstandard2.0\EAXamarin5.AssemblyInfo.cs
+C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5\obj\Debug\netstandard2.0\EAXamarin5.dll
+C:\Users\DELL\source\repos\EAXamarin5\EAXamarin5\obj\Debug\netstandard2.0\EAXamarin5.pdb
